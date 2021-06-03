@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the stationers, relating to the act of Parliament for granting a duty upon velum, paper and parchment.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18716</idno><idno type="EEBO-CITATION">99885086</idno>
+  <idno type="VID">190198</idno>
+  <idno type="EEBO-PROQUEST">2240890555</idno>
+  
+            <idno type="STC">Wing C1167A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.12[47]</idno>
+            <idno type="STC">ESTC R220633</idno>
+            <idno type="STC">ESTC R220634</idno>
+            <idno type="PROQUEST">ocm99885086</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885086e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190198)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C19:1[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the stationers, relating to the act of Parliament for granting a duty upon velum, paper and parchment.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Not the same text as: "The case of the stationers." Cf. ESTC R220633.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Stationery trade --  England --  Early works to 1800.</term>
+               <term type="topical_term">Tariff on paper --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Customs administration --  England --  London --  Officials and employees --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190198:1"/>
+            <head>THE CASE OF THE STATIONERS, Relating to the Act of Parliament for granting a Duty upon Velum, Paper and Parchment.</head>
+            <p>THE Duties are so very high, that before the making of the said Act, the Stationers could Trade further with 100 <hi>l.</hi> Stock, than they can now with 1000 <hi>l.</hi> the Duty of a Ream of of Paper value 12 <hi>s.</hi> with the 6 <hi>d.</hi> Stamp (the most general Stamp) being 12 <hi>l.</hi>
+            </p>
+            <p>THAT the Commissioners of the said Duty have not only dispers'd all sorts of Velum, Paper and Parchment ready Stampt, into all Parts of the Kingdom, (which, before the said Act, was supplied by the Stationers,) but do likewise sell by Retail, at their Office at <hi>Lincolns-Inn,</hi> and in <hi>Southwark;</hi> and in order to Engross the whole Trade, they have dispersed Printed Lists of the Goods they sell, with the Prizes of them; publish'd Advertisements of the same; and discourage Attorneys, <hi>&amp;c.</hi> from bringing their own Goods to be Stampt, by telling them they need not give themselves that Trouble, for they may be supplied with Goods ready Stampt at their Office. They likewise shut up their Stamping-Office at Six at Night; but their Selling-Office they keep open till Seven. All which will be the utter Ruine of the Stationers, who have obain'd their Trade by Servitude, and are incorporated to exercise the same.</p>
+            <p>There are but Three Stationers that supply the Commissioners, and those Undertakers have engross'd the greatest part of the Parchment in the Kingdom; by which means, the Price thereof is advanced at least 4 <hi>s.</hi> in every 20 <hi>s.</hi>
+            </p>
+            <p>THAT the said Commissioners do allow all their Agents in the Country Three Months Credit, and Eighteen-pence in the Pound; but have refused to make the Stationers the like Allowance, on pay<g ref="char:EOLhyphen"/>ment of present Money.</p>
+            <p>
+               <hi>Object.</hi> It is Objected by the Commissioners, <hi>That they offer'd the Supplying of the Kingdom to the Com<g ref="char:EOLhyphen"/>pany of Stationers, upon their giving Security.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> It was Answer'd by the Master of the said Company, That it was not only impracticable for them to give Security: but if they should undertake the whole Trade, it would be look'd upon as a Monopoly in them; for that the Profit of the Goods could be divided amongst those only that had Shares in the said Company, which not One in Twenty or Thirty have; and the greatest part of those that have Shares are Booksellers and Printers, and do not trade in Velum, Paper or Parchment.</p>
+            <p>
+               <hi>Object.</hi> It is also Objected by the Commissioners, <hi>That they sell much Cheaper than the Stationers; and than the Stationers, in some things, get above</hi> 100 l. per Cent.</p>
+            <p>
+               <hi>Answ.</hi> The Stationers, before the said Act was put in execution, did Petition the Commissioners, and afterwards the Lords of Their Majesty's Treasury, for an Allowance on Prompt-payment, that they might be enabled to sell their Goods at the usual Price, but could not be relieved: Yet 'tis well known, and has been proved, that the Stationers, notwithstanding they have lost three parts of their Trade, do still sell at the usual Price over and above the King's Duty, except only in a single Blank or two, or single Sheet of Paper, for which the Stationers are often-times called up at unseasonable Hours; and which is so inconsiderable, that it does not pay Portridge, or Ser<g ref="char:EOLhyphen"/>vants Shooe-leather to and from the Office. This Objection is rais'd by the sale of six Stampt-Bonds, and six Stampt Sheets of Paper only, designedly bought by Colonel <hi>Hatley</hi> (one of the Stationers that supplies the Commissioners) of Mr. <hi>Vincent;</hi> which is a very small Quantity of Goods, to make a Comparison of Hundreds by.</p>
+            <p>The Stationers always deal with the Attorneys in the Country, as well as those in Town, and are sent to for Goods ready Stampt, for which they are obliged to give Credit; so that they not only run great Hazards of losing their Commodity, but the Duty also. But the Commissioners Agents run no Hazard at all, nor are no Money out of Pocket; the Goods being sent down to them from the Com<g ref="char:EOLhyphen"/>missioners, for which they are obliged to return their Money but once in Three Months, and then for no more than what they have disposed of. So tis humbly hop'd (there being always a difference between Ready-Money and Time) the Stationers ought rather to have a greater Allowance than the Com<g ref="char:EOLhyphen"/>missioners Agents; for they did not desire any Credit to be given to them, but proposed the Payment of Present Money.</p>
+            <p>
+               <hi>If therefore this Honourable House shall not be pleased to take off the whole Trade from the Commissioners, it is humbly pray'd that the said Commissioners may be disabled from Selling at their Office, and in the Cities of</hi> London <hi>and</hi> Westminiter, <hi>and within Five Miles of the same: And that the Stationers may be enabled to sell their Goods at the usual Price, they pray that the like Discount or allowance may be made to them upon Prompt-Payment of the King's Duty, as is made to the Com<g ref="char:EOLhyphen"/>missioners Agents in the Country. All which is humbly submitted <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this Hon<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rable House.</hi>
+            </p>
+            <pb facs="tcp:190198:2"/>
+            <pb facs="tcp:190198:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
